@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cknelange0748/carl-knelange/_apis/build/status/CarlKnelange.pipelines-java?branchName=master)](https://dev.azure.com/cknelange0748/carl-knelange/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
